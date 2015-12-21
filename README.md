@@ -1,2 +1,2 @@
 # dev-yii2
-Dockerfile for automated build
+Special image that ready to install yii2 for development purposes
